@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for PC | DaVinci Resolve for Windows with updated DaVinci Resolve for PC | DaVinci Resolve for Windows Automation | batch-processing + time-remapping, the
 
 
 
